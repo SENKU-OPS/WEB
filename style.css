@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: cornsilk;
+}
+
+h1{
+    text-align: center;
+    padding:20px;
+    background-color: cadetblue;
+    color: aliceblue;
+    
+}
+p{
+    text-align: center;
+    margin: 8%;
+    background-color:cornsilk;
+    padding: 40px;
+    box-shadow: 0em 0em 1em 0em rgb(0,0,0,0.1);
+    
+}
+a{
+    display: block;
+    text-align: center;
+    background-color:dimgrey;
+    padding:25px;
+    color: aliceblue;
+    text-decoration: none;
+}
